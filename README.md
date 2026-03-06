@@ -1,1 +1,1 @@
-# Abinaya
+The PackLite homepage, built in Flutter, provides a clean and simple interface with interactive buttons arranged in a Column layout. Spacing between buttons is handled using SizedBox to ensure a neat and responsive design. This homepage works on Chrome serving as the main entry point of the app and a foundation for adding future navigation and features.
